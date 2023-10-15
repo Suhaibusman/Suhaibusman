@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FYP**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning JS, Nest JS, Next JS, React JS
 
 - 👯 I’m looking to collaborate on **FYP**
 
