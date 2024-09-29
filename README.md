@@ -1,5 +1,5 @@
 <!-- Main GIF -->
-<img src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png" height="60%">
+<img src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png" height="40%">
 <!-- Social Links Badges -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/suhaibusman/">
