@@ -1,36 +1,84 @@
-<h1 align="center">Hi 👋, I'm Muhammad Suhaib Usman</h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhaibusman&label=Profile%20views&color=0e75b6&style=flat" alt="Suhaibusman" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-
-- 🔭 I’m currently working on **FYP**
+<!-- Main GIF -->
+<img src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png" height="60%">
+<!-- Social Links Badges -->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/suhaibusman/">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
+  </a>
+  <a href="https://www.facebook.com/MuhammadSuhaib0/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
+  </a>
   
-- 👨‍💻 All of my projects are available at **https://suhaibportfolio.vercel.app/**
+  <a href="https://www.instagram.com/muhammad_._suhaib/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:suhaibusman54@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=instagram&logoColor=ffffff">
+  </a>
+  <a href="https://www.youtube.com/@suhaibusman">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+ <!-- <a href="https://twitter.com/_AB_Soomro">
+    <img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=ffffff">
+  </a>
+  <a href="https://medium.com/@Suhaibusman">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium">
+  </a>
+//--!>
+</div>
 
-- 🌱 I’m currently learning Getx,Bloc
+<!-- Introduction -->
+<div  align="center">
+    <h1>👋 Hi, I am Muhammad Suhaib</h1>
+</div>
 
-- 👯 I’m looking to collaborate on **FYP**
+ <div align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=Suhaibusman&label=Profile%20views&color=0e75b6&style=flat" alt="Suhaibusman">
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Suhaibusman?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Suhaibusman?style=social">
+</div>
 
-- 🤝 I’m looking for help with **FYP**
-
-- 📫 How to reach me **suhaibusman54@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suhaibusman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaibusman" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadsuhaib0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadsuhaib0" height="30" width="40" /></a>
-<a href="https://instagram.com/suhaib__usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhaib__usman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@suhaibusman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@suhaibusman" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhaibusman" alt="suhaibusman" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaibusman&show_icons=true&locale=en&layout=compact" alt="suhaibusman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhaibusman&show_icons=true&locale=en" alt="suhaibusman" /></p>
+<!-- Who I am Section -->
+<div align="left">
+  <h1 align="left">Did you know
+    <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" target="_blank"><img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="32px" width="30px" /></a>
+    <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif"><img  src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="32px" width="30px"></a></h1>
+</div>
+ 
+  <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlyMjl4Z2Vsa3cyZHEwbnMzNzh6eGl4bTNndHlsdGMxdmsybmZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" align="right"/>
+  
+  <div align="left">
+    <ul>
+      <li>🌍 Based in Karachi, Pakistan </li>
+      <li>💻 I am currently working as a Junior Flutter Developer.</li>
+      <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
+      <li>🚀 Passionate about exploring the world of code and creativity!</li>
+      <li>💬 Ask me about Dart, Flutter, and Git</li>
+      <li>⚡ Fun fact: A coder who doesn't like coffee.</li>
+    </ul>
+  </div>
+</div>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<!-- Tools and Technology Section -->
+<h2 align="center">Tools and Technologies 🛠</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<br>
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaibusman&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+</div>
+
+
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
