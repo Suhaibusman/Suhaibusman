@@ -1,6 +1,43 @@
 <!-- Main GIF -->
-<img src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png" height="40%">
+<!-- <img src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png" height="40%"> 
 <!-- Social Links Badges -->
+<!-- Introduction -->
+<div  align="center">
+    <h1>👋 Hi, I am Muhammad Suhaib</h1>
+<h3 align="center">🚀 Flutter Developer at Blocship from Karachi, Pakistan</h3>
+</div>
+
+ <div align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=Suhaibusman&label=Profile%20views&color=0e75b6&style=flat" alt="Suhaibusman">
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Suhaibusman?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Suhaibusman?style=social">
+</div>
+
+<!-- Who I am Section -->
+<div align="left">
+  <h1 align="left">Did you know
+    <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" target="_blank"><img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="32px" width="30px" /></a>
+    <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif"><img  src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="32px" width="30px"></a></h1>
+</div>
+ 
+  <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlyMjl4Z2Vsa3cyZHEwbnMzNzh6eGl4bTNndHlsdGMxdmsybmZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" height= "40%" align="right"/>
+  
+  <div align="left">
+    <ul>
+      <li>🌍 Based in Karachi, Pakistan </li>
+      <li>💻 I am currently working as a Junior Flutter Developer.</li>
+      <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
+      <li>🚀 Passionate about exploring the world of code and creativity!</li>
+      <li>💬 Ask me about Dart, Flutter, and Git</li>
+      <li>⚡ Fun fact: A coder who doesn't like coffee.</li>
+    </ul>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/suhaibusman/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
@@ -24,46 +61,14 @@
   <a href="https://medium.com/@Suhaibusman">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium">
   </a>
-//--!>
+--!>
 </div>
 
-<!-- Introduction -->
-<div  align="center">
-    <h1>👋 Hi, I am Muhammad Suhaib</h1>
-</div>
+<br>
+<h2 align="left">Some Acomplishments<img src="https://media.giphy.com/media/4KgqTAyBHBvNmjeuGE/giphy.gif" height="30px" width="30px"></h2>
 
- <div align="center"> 
-      <img src="https://komarev.com/ghpvc/?username=Suhaibusman&label=Profile%20views&color=0e75b6&style=flat" alt="Suhaibusman">
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Suhaibusman?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Suhaibusman?style=social">
-</div>
-
-<!-- Who I am Section -->
-<div align="left">
-  <h1 align="left">Did you know
-    <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" target="_blank"><img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="32px" width="30px" /></a>
-    <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif"><img  src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="32px" width="30px"></a></h1>
-</div>
- 
-  <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlyMjl4Z2Vsa3cyZHEwbnMzNzh6eGl4bTNndHlsdGMxdmsybmZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" align="right"/>
-  
-  <div align="left">
-    <ul>
-      <li>🌍 Based in Karachi, Pakistan </li>
-      <li>💻 I am currently working as a Junior Flutter Developer.</li>
-      <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
-      <li>🚀 Passionate about exploring the world of code and creativity!</li>
-      <li>💬 Ask me about Dart, Flutter, and Git</li>
-      <li>⚡ Fun fact: A coder who doesn't like coffee.</li>
-    </ul>
-  </div>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
+- 🚀 Won Saylani Devathon 2.0 and received a laptop
+- 🚀 Won GDSC Code Jam 2.0
 <br>
 <!-- Tools and Technology Section -->
 <h2 align="center">Tools and Technologies 🛠</h2>
