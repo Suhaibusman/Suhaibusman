@@ -26,7 +26,8 @@
   <div align="left">
     <ul>
       <li>🌍 Based in Karachi, Pakistan </li>
-      <li>💻 I am currently working as a Junior Flutter Developer.</li>
+      <li>💻 I am currently working as a Junior Computer Operator At Sindh High Court.</li>
+    <li>💻 I am currently learning Asp.net Core.</li>
       <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
       <li>🚀 Passionate about exploring the world of code and creativity!</li>
       <li>💬 Ask me about Dart, Flutter, and Git</li>
