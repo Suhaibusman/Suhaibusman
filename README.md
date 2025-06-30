@@ -4,7 +4,7 @@
 <!-- Introduction -->
 <div  align="center">
     <h1>👋 Hi, I am Muhammad Suhaib</h1>
-<h3 align="center">🚀 Flutter Developer at Blocship from Karachi, Pakistan</h3>
+<h3 align="center">🚀 Flutter Developer from Karachi, Pakistan</h3>
 </div>
 
  <div align="center"> 
