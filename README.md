@@ -27,7 +27,7 @@
     <ul>
       <li>🌍 Based in Karachi, Pakistan </li>
       <li>💻 I am currently working as a Junior Computer Operator At Sindh High Court.</li>
-    <li>💻 I am currently learning Asp.net Core.</li>
+    <li>💻 I am currently learning Asp.net and PHP-Laravel.</li>
       <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
       <li>🚀 Passionate about exploring the world of code and creativity!</li>
       <li>💬 Ask me about Dart, Flutter, and Git</li>
@@ -84,7 +84,7 @@
 </div>
 
 
-
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -94,3 +94,4 @@
 <!--   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Suhaibusman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
  <br/> <br/>
 
+-->
