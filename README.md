@@ -2,14 +2,14 @@
 
 <!-- MAIN TITLE WITH ADVANCED TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&duration=2000&pause=500&color=00FF9F&center=true&width=1000&lines=%3E+Muhammad+Suhaib;%3E+Full+Stack+Developer;%3E+Mobile+Innovator;%3E+Code+Architect;%3E+Digital+Creator" alt="Animated Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=2000&pause=500&color=00FF9F&center=true&width=1000&lines=%3E+Muhammad+Suhaib;%3E+Full+Stack+Developer;%3E+Mobile+Innovator;%3E+Code+Architect;%3E+Digital+Creator" alt="Animated Title" />
 </div>
 
 <br/>
 
 <!-- SUBTITLE WITH GLOW EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=4000&pause=800&color=FFD700&center=true&width=900&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+ASP.NET+%7C+Laravel;Building+Beautiful+Mobile+Experiences+from+Karachi%2C+Pakistan" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=15&duration=4000&pause=800&color=FFD700&center=true&width=1000&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+ASP.NET+%7C+Laravel;Building+Beautiful+Mobile+Experiences+from+Karachi%2C+Pakistan" alt="Subtitle" />
 </div>
 
 <br/>
@@ -201,7 +201,7 @@
 <!-- Activity Graph -->
 <div align="center">
   <h3>📈 Contribution Activity</h3>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaibusman&theme=github-dark&hide_border=true&area=true&color=00FF9F&line=00FF9F&point=FFD700&bg_color=0D1117" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaibusman&theme=github-dark&hide_border=true&area=true&color=00FF9F&line=00FF9F&point=FFD700&bg_color=0D1117&cache_seconds=1800" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
@@ -212,8 +212,8 @@
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suhaibusman&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=FFFFFF&icon_color=FFD700&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaibusman&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suhaibusman&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=FFFFFF&icon_color=FFD700&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaibusman&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=FFFFFF&langs_count=10&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <br/>
@@ -221,7 +221,7 @@
 <!-- Contribution Streak -->
 <div align="center">
   <h3>🔥 Contribution Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhaibusman&theme=dark&hide_border=true&background=0D1117&ring=00FF9F&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhaibusman&theme=dark&hide_border=true&background=0D1117&ring=00FF9F&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&cache_seconds=1800" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
@@ -229,7 +229,7 @@
 <!-- Wakatime Stats -->
 <div align="center">
   <h3>⏱️ Coding Time Analytics</h3>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Suhaibusman&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Suhaibusman&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=FFFFFF&layout=compact&cache_seconds=1800" alt="Wakatime Stats" />
 </div>
 
 <br/>
@@ -487,16 +487,18 @@ You've discovered the hidden secrets of this README:
    - Oracle Database Added ✓
    - All databases organized ✓
 
-✅ Spacing Fixed:
-   - Top padding added ✓
-   - No name cropping ✓
-   - Proper section spacing ✓
+✅ All URL Issues Fixed:
+   - No more camo.githubusercontent URLs ✓
+   - Direct clean URLs ✓
+   - Cache parameters added ✓
+   - Fresh image generation every 30 minutes ✓
 
 ✨ Pro Tips:
    - Make commits regularly to update streak
    - Update your Wakatime profile for coding stats
    - Stars come from project quality
    - Followers grow with consistency
+   - Images refresh automatically every 30 mins
 
 Keep coding! 🚀
 -->
