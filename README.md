@@ -56,13 +56,7 @@
   <a href="https://www.youtube.com/@suhaibusman">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
- <!-- <a href="https://twitter.com/_AB_Soomro">
-    <img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=ffffff">
-  </a>
-  <a href="https://medium.com/@Suhaibusman">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium">
-  </a>
---!>
+
 </div>
 
 <br>
@@ -94,4 +88,3 @@
 <!--   <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Suhaibusman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
  <br/> <br/>
 
--->
